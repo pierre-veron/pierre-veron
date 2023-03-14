@@ -1,5 +1,5 @@
 # Pierre Veron
-:email: ` pveron [at] bio.ens.psl.eu`
+:email:  `pveron [at] bio.ens.psl.eu`
 
 ## Current position
 __PhD student__ in evolution and ecology at [Institute of Biology of École Normale Supérieure, Paris](https://www.ibens.ens.fr/) and [Université Paris-Saclay](https://www.ideev.universite-paris-saclay.fr/en/) from October 2022.
@@ -50,4 +50,4 @@ __2015 - 2017__ 1<sup>st</sup> and 2<sup>nd</sup> years of Bachelor in mathemati
 
     The camp is supported by the _Fondation Blaise Pascal_ and the _École Normale Supérieure de Lyon_.
 
-* Teaching assistant in the biology department of [École Normale Supérieure](https://www.ens.psl.eu/en), Paris
+* Teaching assistant in the biology department of [École Normale Supérieure](https://www.ens.psl.eu/en), Paris.
