@@ -9,9 +9,7 @@ Co-supervised by Hélène Morlon and Tatiana Giraud.
 > Bridging the micro-macro gap in speciation research: identifying
 microevolutionary processes that explain speciation rate heterogeneity
 
-__Affiliation__  
-
-IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS <br>46 rue d'Ulm 75005 Paris, France 
+__Affiliation__  <br>IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS <br>46 rue d'Ulm 75005 Paris, France 
 
 ## Publications
 Pierre Veron, Romane Rozanski, Virginie Marques, Stéphane Joost, Marie Emilie Deschez, Verena M. Trenkel, Pascal Lorance, Alice Valentini, Andrea Polanco F., Loïc Pellissier, David Eme and Camille Albouy, _eDNA complements scientific trawling to survey marine fish biodiversity components_, in prep. 
