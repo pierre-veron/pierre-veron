@@ -1,5 +1,5 @@
 # Pierre Veron
-:email: `pveron [at] bio.ens.psl.eu`
+:email: ` pveron [at] bio.ens.psl.eu`
 
 ## Current position
 __PhD student__ in evolution and ecology at [Institute of Biology of École Normale Supérieure, Paris](https://www.ibens.ens.fr/) and [Université Paris-Saclay](https://www.ideev.universite-paris-saclay.fr/en/) from October 2022.
@@ -9,7 +9,10 @@ Co-supervised by Hélène Morlon and Tatiana Giraud.
 > Bridging the micro-macro gap in speciation research: identifying
 microevolutionary processes that explain speciation rate heterogeneity
 
-__Affiliation__  IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS, France
+__Affiliation__  
+
+IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS
+46 rue d'Ulm 75005 Paris, France 
 
 ## Publications
 Pierre Veron, Romane Rozanski, Virginie Marques, Stéphane Joost, Marie Emilie Deschez, Verena M. Trenkel, Pascal Lorance, Alice Valentini, Andrea Polanco F., Loïc Pellissier, David Eme and Camille Albouy, _eDNA complements scientific trawling to survey marine fish biodiversity components_, in prep. 
@@ -43,6 +46,8 @@ __2017 - 2020__ 3<sup>rd</sup> year Bachelor and Master at [École polytechnique
 __2015 - 2017__ 1<sup>st</sup> and 2<sup>nd</sup> years of Bachelor in mathematics and physics at [Lycée Faidherbe](https://www.faidherbe.org/), Lille, France (French _Classes préparatoires aux grandes écoles_). 
 
 ## Other 
-I'm co-organizing a __summer school in mathematics and astronomy__ for ~17 years-old students since 4 years. The camp is called [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) and is organized in Ardèche, France. The high school students are supervised by a team of researchers, professors, teachers, students and high-skilled enthusiasts in astronomy. They practice out-from-school mathematical activities, sports and astronomical observations with professional material. 
+* I'm co-organizing a __summer school in mathematics and astronomy__ for ~17 years-old students since 4 years. The camp is called [Astromaths](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/) and is organized in Ardèche, France. The high school students are supervised by a team of researchers, professors, teachers, students and high-skilled enthusiasts in astronomy. They practice out-from-school mathematical activities, sports and astronomical observations with professional material. 
 
-The camp is supported by the _Fondation Blaise Pascal_ and the _École Normale Supérieure de Lyon_. 
+    The camp is supported by the _Fondation Blaise Pascal_ and the _École Normale Supérieure de Lyon_.
+
+* Teaching assistant in the biology department of [École Normale Supérieure](https://www.ens.psl.eu/en), Paris
