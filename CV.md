@@ -11,8 +11,7 @@ microevolutionary processes that explain speciation rate heterogeneity
 
 __Affiliation__  
 
-IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS
-46 rue d'Ulm 75005 Paris, France 
+IBENS, École Normale Supérieure, PSL Research University, UMR 8197 CNRS <br>46 rue d'Ulm 75005 Paris, France 
 
 ## Publications
 Pierre Veron, Romane Rozanski, Virginie Marques, Stéphane Joost, Marie Emilie Deschez, Verena M. Trenkel, Pascal Lorance, Alice Valentini, Andrea Polanco F., Loïc Pellissier, David Eme and Camille Albouy, _eDNA complements scientific trawling to survey marine fish biodiversity components_, in prep. 
